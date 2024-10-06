@@ -1,4 +1,6 @@
-
+В файле [Anna_iliushina_classifier.py](https://github.com/Anilian/Eyes_classification/blob/main/Anna_iliushina_classifier.py) представлен class OpenEyesClassificator для загрузки модели, а также функции обработки входного изображения \
+В файле [EyesClassification_train_old.ipynb](https://github.com/Anilian/Eyes_classification/blob/main/EyesClassification_train_old.ipynb) представлен процесс обучения модели \
+Веса [mobilenet_v3_large_best_weights.pth](https://github.com/Anilian/Eyes_classification/blob/main/mobilenet_v3_large_best_weights.pth) являются наилучшими для решения данной задачи
 # Задание:
 Необходимо натренировать классификатор открытых/закрытых глаз, используя заданную обучающую выборку. Обучающая выборка состоит из 4000 черно-белых изображений размером 24х24.
 # Анализ задачи
